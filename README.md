@@ -2,7 +2,7 @@
 
 # Welcome to Rajesh Kumar's GitHub
 
-Hi, I am a Technical Engineer having 7+ years of industry experience which includes Banking and Financial domain and Application Support. Specialized in SQL, Front end development and Superior customer service skills. Logical thinker. Puzzle solver. Quick learner. MERN Stack enthusiast.
+Hi, I am a a passionate self-taught front end web developer and a freelance software engineer from india, having 8+ years of industry experience which includes Banking and Financial domain and Application Support. Specialized in SQL, Front end development and Superior customer service skills. Logical thinker. Puzzle solver. Quick learner. MERN Stack enthusiast.
 
 <!--
 **RajeshKumarThankaraj/RajeshKumarThankaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
