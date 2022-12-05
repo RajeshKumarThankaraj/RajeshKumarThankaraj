@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/rajesh-kumar-thankaraj-204567177/">
   <img align="left" alt="Rajesh Kumar's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Rajesh Kumar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 
 <br />
